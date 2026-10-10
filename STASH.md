@@ -1,3 +1,3 @@
 # Stashing
 
-Stashing let me switch from `lab05-feature` to `master` and back without committing a half-finished change.
+Stashing let me switch from `lab05-feature` to `main` and back without committing a half-finished change.
